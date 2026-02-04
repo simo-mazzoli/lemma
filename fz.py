@@ -9,4 +9,4 @@ def culosecco(x,y):
 def istruzioni():
   z="Usa queste funzioni per pulirti il sederino."
   print(z)
-  return null
+  return None
